@@ -1,0 +1,10 @@
+Hello,
+
+I am dummy file.
+Used in package udemy.lambda.FI.section8 and class Step2_PlayingWithFiles
+
+:)
+;)
+
+Thanks
+From DUMMY file
